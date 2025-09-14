@@ -26,7 +26,6 @@ netflix-analysis-project/
 │── README.md # Documentação do projeto
 │── .gitignore # Arquivos/pastas ignorados pelo Git
 
-
 ---
 
 ## ⚙️ Instruções de Uso
